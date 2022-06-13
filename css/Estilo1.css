@@ -1,0 +1,35 @@
+*
+{
+    background-color:linear-gradient(red,blue,green);
+    color: rgb(178, 204, 29);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left:5%;
+    margin-right:5%;
+}
+body
+{
+    margin:2;
+    min-height:100vh;
+    background-image: url("https://wallpaperaccess.com/full/7101300.jpg");
+    background-image:transparent;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+
+}
+a
+{
+    color:#fff94e;
+}
+h1
+{
+    color:rgba(255,0,0,0.568);
+}
+h2
+{
+    color:#00a210;
+}
+                    
+  
+
